@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #000;
+    
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+    background-color: #fff;
+}
+
+th, td {
+    border: 4px solid #ddd;
+    padding: 15px;
+    text-align: center;
+    font-style: italic;
+}
+
+th {
+    background-color: grey;
+    font-weight: bold;
+}
+
+.datawyjazdu {
+    background-color: aqua;
+    font-size: 20px;
+}
+
+.cel {
+    background-color: red;
+    font-size: 20px;
+}
+
+.cena {
+    background-color: green;
+    font-size: 20px;
+}
